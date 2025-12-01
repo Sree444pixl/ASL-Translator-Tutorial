@@ -14,3 +14,7 @@ Tailwind CSS
 Node / Cloudflare Workers backend
 
 The system recognizes ASL letters and words through webcam input and translates them into English text.
+
+🔗 Live Demo: https://asl-translator-tutorial-tinqahyedp2-live.yw.app
+
+
