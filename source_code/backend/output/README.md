@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "asl-translator-backend" generated at 2025-12-01T15:14:05.499Z.

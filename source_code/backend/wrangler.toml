@@ -1,0 +1,4 @@
+name = "asl-translator-backend"
+main = "src/index.ts"
+compatibility_date = "2025-11-01"
+compatibility_flags = ["nodejs_compat"]

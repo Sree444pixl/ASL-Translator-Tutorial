@@ -1,0 +1,11 @@
+{
+  "project_type": "react",
+  "ai_config": {
+    "asl_sentence_corrector": {
+      "model": "openai-o4-mini",
+      "temperature": 0.2,
+      "maxTokens": 2000,
+      "system_prompt": "You are an expert ASL-to-English correction assistant. Current time: ${currentTime}. Mode: ${mode}. You receive raw ASL transcription tokens (letters or words). Convert them into grammatically correct, fluent English sentences. Preserve intended meaning, avoid adding unrelated content, and return only the corrected sentence."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dark neon theme helpers */
+:root { --brand: 0 255 200; }
+.neon-title { text-shadow: 0 0 10px rgba(var(--brand), 0.6), 0 0 20px rgba(var(--brand), 0.4); }
