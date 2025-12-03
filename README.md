@@ -3,7 +3,8 @@ ASL Translator Tutorial – AI Capstone Project (CBSE Grade 12)
 
 This project is an AI-based American Sign Language (ASL) Translator built using:
 
-Teachable Machine (custom-trained ASL hand gesture model)
+Teachable Machine (kaggle dataset: https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset + custom-trained ASL hand gesture model)
+Trained Model: https://teachablemachine.withgoogle.com/models/Qv7jwDiGB/ 
 
 YouWare.com (AI platform UI + backend integration)
 
